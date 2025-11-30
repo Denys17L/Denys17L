@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Denys17L/Denys17L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Denys Lysak 👋
 
-Here are some ideas to get you started:
+**Backend & Blockchain Developer** focused on building scalable and secure applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* **JavaScript / Node.js**
+* **PostgreSQL**
+* **Solidity**
+* **HTML / CSS**
+* **Python**
+
+## 🎓 Education
+
+* Currently studying at **DSW**
+
+## 🌐 Interests
+
+* Backend architecture
+* Smart contracts
+* Web3 & DeFi
+* APIs & Databases
+
+## 🤝 Collaboration
+
+Always open to new projects and collaborations.
+->
