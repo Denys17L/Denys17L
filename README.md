@@ -1,5 +1,6 @@
 
-![Into the Ether](https://github.com/user-attachments/assets/efebbdf2-4c61-4b4f-89d6-b431ddf869a5)
+!                                                  [DeeWork Ecosystem](https://github.com/user-attachments/assets/194e11c7-4b4c-4fd8-9d16-f40104e75b3a)
+
 
 # Hi, I'm Denys Lysak 👋
 
