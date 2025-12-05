@@ -1,3 +1,6 @@
+
+![Into the Ether](https://github.com/user-attachments/assets/efebbdf2-4c61-4b4f-89d6-b431ddf869a5)
+
 # Hi, I'm Denys Lysak 👋
 
 **Backend & Blockchain Developer** focused on building scalable and secure applications.
