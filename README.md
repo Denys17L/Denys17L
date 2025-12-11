@@ -25,7 +25,7 @@
 </p>
 
 ## 🎓 Education
-- Currently studying at **DSW**
+I am currently studying at DSW in the Computer Science department, specializing in **Engineering of Modern Technologies – Metaverse, Web3.0, FinTech**.
 
 ## 🌐 Interests
 - Backend architecture  
