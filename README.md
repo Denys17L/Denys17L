@@ -24,6 +24,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
 </p>
 
+
+## 📊 My GitHub Stats
+![Stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denys17L&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denys17L&layout=compact&theme=tokyonight)
+
+
 ## 🎓 Education
 I am currently studying at DSW in the Computer Science department, specializing in **Engineering of Modern Technologies – Metaverse, Web3.0, FinTech**.
 
@@ -31,7 +38,8 @@ I am currently studying at DSW in the Computer Science department, specializing 
 - Backend architecture  
 - Smart contracts  
 - Web3 & DeFi  
-- APIs & Databases  
+- APIs & Databases
+
 
 ## 📫 Connect with me
 
